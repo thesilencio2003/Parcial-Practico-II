@@ -14,7 +14,6 @@
 ---
 ## Consultas Realizadas
 - **Uso y utilidades de `java.util.Map` en Java:** Consulta sobre cómo almacenar colecciones pares clave-valor (ej. catálogos de criaturas, grimorio de hechizos del mago o conteo de victorias).
-- **Configuración de codificación UTF-8 en Maven:** Ajuste de `<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>` en el `pom.xml` para compilar sin conflictos caracteres en español como la letra `ñ` en el parámetro `defender(int daño)`.
 - **Estructura de pruebas con JUnit 5 (Jupiter):** Uso de anotaciones `@Test`, `@BeforeEach`, `@DisplayName` y aserciones (`assertEquals`, `assertTrue`, `assertFalse`, `assertInstanceOf`).
 ---
 ## Uso de la Inteligencia Artificial
